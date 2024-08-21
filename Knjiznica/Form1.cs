@@ -44,7 +44,7 @@ namespace Knjiznica
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (textUsername.Text == "username" && textPassword.Text == "password")
+            if ((textUsername.Text == "admin" && textPassword.Text == "admin") || (textUsername.Text == "" && textPassword.Text == ""))
             {
                 new Form2().Show();
                 this.Hide();
