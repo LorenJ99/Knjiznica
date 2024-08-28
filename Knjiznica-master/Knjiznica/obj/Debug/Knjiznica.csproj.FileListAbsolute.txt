@@ -9,3 +9,5 @@ C:\Users\Nika\OneDrive\Radna površina\Knjiznica-master\Knjiznica\obj\Debug\Knji
 C:\Users\Nika\OneDrive\Radna površina\Knjiznica-master\Knjiznica\obj\Debug\Knjiznica.csproj.CoreCompileInputs.cache
 C:\Users\Nika\OneDrive\Radna površina\Knjiznica-master\Knjiznica\obj\Debug\Knjiznica.exe
 C:\Users\Nika\OneDrive\Radna površina\Knjiznica-master\Knjiznica\obj\Debug\Knjiznica.pdb
+C:\Users\Nika\OneDrive\Radna površina\Knjiznica-master\Knjiznica\obj\Debug\Knjiznica.Form3.resources
+C:\Users\Nika\OneDrive\Radna površina\Knjiznica-master\Knjiznica\obj\Debug\Knjiznica.Form4.resources

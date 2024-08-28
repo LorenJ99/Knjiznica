@@ -84,7 +84,7 @@ namespace Knjiznica
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            new Form3().Show();
         }
 
         private void button7_Click(object sender, EventArgs e)
@@ -95,6 +95,11 @@ namespace Knjiznica
         private void pictureBox2_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            new Form4().Show();
         }
     }
 }
