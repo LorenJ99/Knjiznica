@@ -57,25 +57,49 @@ namespace Knjiznica
         {
 
         }
-
-        private void Home_MouseClick(object sender, MouseEventArgs e)
+        private void label3_Click(object sender, EventArgs e)
         {
-            TextLabel.Text = "Button 1";
+
         }
 
-        private void label2_MouseClick(object sender, MouseEventArgs e)
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
-            TextLabel.Text = "Button 2";
+
         }
 
-        private void label3_MouseClick(object sender, MouseEventArgs e)
+        private void PanelButton1_Paint(object sender, PaintEventArgs e)
         {
-            TextLabel.Text = "Button 3";
+
         }
 
-        private void label4_MouseClick(object sender, MouseEventArgs e)
+        private void label2_Click_4(object sender, EventArgs e)
         {
-            TextLabel.Text = "Button 4";
+
+        }
+
+        private void PanelButton2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            new Form3().Show();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            new Form4().Show();
         }
     }
 }
